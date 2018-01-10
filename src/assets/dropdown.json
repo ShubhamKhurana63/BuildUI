@@ -1,0 +1,22 @@
+{
+    "buildpage": {
+        "release": [
+            "release_1.0.0",
+            "release_1.0.1",
+            "release_1.0.2",
+            "release_1.0.3",
+            "release_1.0.4",
+            "release_1.0.5"
+        ],
+        "action": [
+            "build",
+            "kill",
+            "promote",
+            "scan",
+            "block",
+            "rebuild",
+            "list",
+            "rebuild"
+        ]
+    }
+}
